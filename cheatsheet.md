@@ -1,4 +1,4 @@
-# Commands you should know
+# Github commands you should know
 
 #### Create an empty Git repository or reinitialize an existing one
 `$ git init`
