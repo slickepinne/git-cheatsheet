@@ -38,3 +38,6 @@
 
 #### Show previous commits
 `$ git log`
+
+#### Revert changes
+`§ git revert`
